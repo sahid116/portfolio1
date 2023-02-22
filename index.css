@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+/* top-container */
+
+.top-container{
+    background-color: #eaf6f6;
+    position: relative;
+    padding-top: 10%;
+}
+h1{
+    font-size: 3rem;
+    font-family: 'Sacramento', cursive;
+}
+h1,h2{
+    color: #66bfbf;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+.topp{
+    margin: 30px auto 50px auto;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 30px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+h1{
+    width: 20%;
+    margin: 50px auto 10px auto;
+}
+
+/* intro section */
+.introimage{
+    margin-top: 50px;
+}
+.introp{
+    width: 30%;
+    margin: 30px auto 60px auto;
+  
+}
+p{
+    font-family: 'Merriweather', serif;
+}
+hr{
+    border: dotted #eaf6f6 6px;
+    width: 8%;
+    border-bottom: none;
+}
+
+/* my skills sectiom */
+h3{
+    color: #11999e;
+    font-family: 'Merriweather', serif;
+}
+
+.dsa{
+    text-align: left;
+    width: 50%;
+    margin: 50px auto 50px auto;
+}
+
+.code-img{
+    float: left;
+    border-radius: 50%;
+    margin-right: 30px;
+}
+
+
+.web-development{
+    text-align: left;
+    width: 50%;
+    margin: 100px auto 50px auto;
+}
+
+.web-img{
+    float: right;
+    border-radius: 50%;
+    margin-left: 120px;
+    
+}
+
+/* get in touch section */
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 23px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-top: 30px;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+.moreabout{
+    margin-top: 50px;
+}
+  .link{
+    background-color: #66bfbf;
+    margin-top: 50px;
+    height: 100px;
+    padding: 2%;
+  }
+  .site{
+    text-decoration: none;
+    color: #11999e;
+    margin: 10px 30px 30px 30px;
+    font-size: 1.2rem;
+  }
+  .foot{
+    margin-top: 30px;
+    color: #eaf6f6;
+  }
